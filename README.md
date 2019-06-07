@@ -1,5 +1,5 @@
 # Cracking Wifi
-This tool can cracking wifi . its speed depend on you performance of computer .
+This tool can cracking wifi . its speed depend on you performance of computer .It is a bad news i cannot fix the tkinter module in linux ,so only show teaching in Windows.
 
 
 # Windows Environment
