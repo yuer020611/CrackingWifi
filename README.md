@@ -7,10 +7,9 @@ Git and Python. if you don't have anyone of them please download them.
 
 Git：https://gitforwindows.org/
 
-Python：https://www.python.org/
+Python：https://www.python.org/  And then follow my step one by one .
 
-and follow my step one by one .
-
+# Windows commmand
 git clone https://github.com/yuer020611/CrackingWifi/
 
 cd CrackingWifi
@@ -21,3 +20,6 @@ python setup.py install
 
 cd ..
 
+python CrackingWifi.py
+
+It'll pop up a graphical interface. 
