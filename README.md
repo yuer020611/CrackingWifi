@@ -1,3 +1,13 @@
-# python-wifi
-不借助其他工具，用python暴力破解wifi，有界面
-![界面](https://github.com/Leno1993/python-wifi/blob/master/python1.png)
+# Cracking Wifi
+This tool can cracking wifi . its speed depend on you performance of computer .
+
+
+#Windows Environment
+Git and Python. if you don't have anyone of them please download them.
+
+Git：https://gitforwindows.org/
+
+Python：https://www.python.org/
+
+and follow my step one by one .
+
