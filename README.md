@@ -11,3 +11,13 @@ Python：https://www.python.org/
 
 and follow my step one by one .
 
+git clone https://github.com/yuer020611/CrackingWifi/
+
+cd CrackingWifi
+
+cd module
+
+python setup.py install
+
+cd ..
+
